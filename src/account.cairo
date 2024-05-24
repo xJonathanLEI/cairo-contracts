@@ -1,6 +1,7 @@
 mod account;
 mod dual_account;
 mod dual_eth_account;
+mod eip712_account;
 mod eth_account;
 mod interface;
 mod utils;
